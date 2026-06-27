@@ -147,46 +147,6 @@ Why XGBoost:
 
 ---
 
-# Project Structure
-
-
-
-restaurant-resource-planning/
-
-│
-├── app.py
-├── requirements.txt
-├── README.md
-│
-├── data/
-│ ├── historical_sales.csv
-│ ├── weather.csv
-│ ├── holidays.csv
-│ ├── recipes.csv
-│ ├── ingredients.csv
-│ ├── inventory.csv
-│ ├── feedback.csv
-│ ├── forecast.csv
-│ └── staff_schedule.csv
-│
-├── models/
-│ ├── cover_model.pkl
-│ └── cover_features.pkl
-│
-└── src/
-├── data_generator.py
-├── preprocess.py
-├── train_cover.py
-├── predict.py
-├── staff_scheduler.py
-├── inventory.py
-├── feedback.py
-└── retrain.py
-
-
-
----
-
 # Installation
 
 
