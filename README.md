@@ -180,9 +180,14 @@ Menu:
 1. Generate Customer Forecast
 2. Generate Staff Schedule
 3. Generate Inventory Order
-4. Submit Feedback
-5. Retrain Model
-6. Exit
+4. View Forecast
+5. View Staff Schedule
+6. View Inventory
+7. Submit Feedback
+8. Retrain Model
+9. Exit
+
+
 Training Model
 
 Train forecasting model:
