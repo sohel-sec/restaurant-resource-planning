@@ -1,0 +1,6 @@
+Ingredient,ShelfLife,LeadTime,UsagePerCover
+Chicken,3,2,0.22
+Rice,180,7,0.12
+Tomato,6,2,0.05
+Onion,15,4,0.03
+Oil,365,10,0.01
